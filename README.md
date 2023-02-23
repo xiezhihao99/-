@@ -6,7 +6,7 @@
 重构前 vue2  https://etc.scjtonline.cn/ScWeChatAvatarXzh
 这个上面是完整的项目内容 主要就是拿去投标用的
 
-用vue3 重构 https://etc.scjtonline.cn/ScWeChatAvatarXzh_20230101 
+用vue3 重构 https://etc.scjtonline.cn/ScWeChatAvatarXzh_20230105 
 这个就是我重构完  主要就是当成模板来用的
 
 公众号号上的链接 https://etc.scjtonline.cn/ScWeChatAvatar
